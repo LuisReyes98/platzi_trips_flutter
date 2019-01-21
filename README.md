@@ -10,12 +10,12 @@ In app Images:
 
 ![home 1](https://github.com/LuisReyes98/platzi_trips_flutter/blob/master/flutter_03.png)
 
-![home 2](https://raw.githubusercontent.com/LuisReyes98/platzi_trips_flutter/master/flutter_04.png)
+![home 2](https://github.com/LuisReyes98/platzi_trips_flutter/blob/master/flutter_04.png)
 
-![home 3](https://raw.githubusercontent.com/LuisReyes98/platzi_trips_flutter/master/flutter_05.png)
+![home 3](https://github.com/LuisReyes98/platzi_trips_flutter/blob/master/flutter_05.png)
 
 ## Profile 
 
-![profile 1](https://raw.githubusercontent.com/LuisReyes98/platzi_trips_flutter/master/flutter_02.png)
+![profile 1](https://github.com/LuisReyes98/platzi_trips_flutter/blob/master/flutter_02.png)
 
-![profile 2](https://raw.githubusercontent.com/LuisReyes98/platzi_trips_flutter/master/flutter_01.png)
+![profile 2](https://github.com/LuisReyes98/platzi_trips_flutter/blob/master/flutter_01.png)
