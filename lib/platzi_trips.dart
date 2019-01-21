@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'home/home_trips.dart';
-import 'profile_trips.dart';
-import 'search_trips.dart';
+import 'profile/profile_trips.dart';
+import 'search/search_trips.dart';
 
 
 class PlatziTrips extends StatefulWidget{
@@ -47,12 +47,18 @@ class _PlatziTrips extends State<PlatziTrips>  {
           items: [
             BottomNavigationBarItem(
               icon: Icon(Icons.home),
+              title: Text(""),
+
             ),
             BottomNavigationBarItem(
               icon: Icon(Icons.search),
+              title: Text(""),
+
             ),
             BottomNavigationBarItem(
               icon: Icon(Icons.person),
+              title: Text(""),
+
             ),
           ],
         ),

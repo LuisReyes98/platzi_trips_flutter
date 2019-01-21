@@ -7,7 +7,7 @@ class HomeTrips extends StatelessWidget{
 
   @override
   Widget build(BuildContext context) {
-    return  Stack(
+    return  Stack( //Stack para tener niveles de scrolling
           children: <Widget>[
             ListView( //esto esta por debajo
               children: <Widget>[

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+
 class FloatingActionButtonGreen extends StatefulWidget{  
   @override
   State<StatefulWidget> createState() {
@@ -17,7 +18,6 @@ class _FloatingActionButtonGreen extends State<FloatingActionButtonGreen> {
     setState(() {
       _pressed = !this._pressed;
     });
-
     Scaffold.of(context).showSnackBar(
       SnackBar(
         content: _pressed ? Text("Agregado a tus Favoritos") : Text("Removido de tus Favoritos"),

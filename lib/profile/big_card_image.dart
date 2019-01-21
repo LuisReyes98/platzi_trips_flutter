@@ -1,20 +1,24 @@
 import 'package:flutter/material.dart';
-import 'floating_action_button_green.dart';
+import 'package:platzi_trips_app/layouts/floating_action_button_green.dart';
+import 'package:platzi_trips_app/profile/info_card.dart';
 
-class CardImage extends StatelessWidget {
-
+class BigCardImage extends StatelessWidget {
   String pathImage;
 
-  CardImage(this.pathImage);
+  BigCardImage(this.pathImage);
 
   @override
   Widget build(BuildContext context) {
+
     final card = Container(
-      height: 350.0,
-      width: 250.0,
+      height: 220.0,
+      width: 350.0,
       margin: EdgeInsets.only(
-        top: 80.0,
+        top: 10.0,
         left: 20.0,
+        right: 20.0,
+        bottom: 90.0,
+
       ),
       decoration: BoxDecoration(
         image: DecorationImage(
@@ -33,15 +37,14 @@ class CardImage extends StatelessWidget {
           )
         ]
       ),
+    
     );
 
-
     return Stack(
-      alignment: Alignment(0.9, 1.1),
-      
+      alignment: Alignment(0.0, 0.9),
       children: <Widget>[
         card,
-        FloatingActionButtonGreen(),
+        InfoCard()
       ],
     );
   }
