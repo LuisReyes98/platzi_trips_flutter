@@ -8,7 +8,7 @@ In app Images:
 
 ## Home
 
-![home 1](https://raw.githubusercontent.com/LuisReyes98/platzi_trips_flutter/master/flutter_03.png)
+![home 1](https://github.com/LuisReyes98/platzi_trips_flutter/blob/master/flutter_03.png)
 
 ![home 2](https://raw.githubusercontent.com/LuisReyes98/platzi_trips_flutter/master/flutter_04.png)
 
